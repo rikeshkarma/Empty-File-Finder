@@ -1,3 +1,4 @@
+// Copyright © 2021 Rikesh Karmacharya
 package main
 
 import (
